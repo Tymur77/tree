@@ -1,2 +1,4 @@
 *.noindex
 Entity
+.DS_Store
+.gitignore
