@@ -2,10 +2,10 @@
 tree is a command line application for MacOS written in Objective-C, that allows to list full contents of working directories in a way that reminds of a tree.
 ![screen shot](https://github.com/Tymur77/tree/blob/master/Images/screen_shot.png)
 ## Options
-| Name |      Full name     | Description |
+| Name | Full name | Description |
 |--|--|--|
 | -d |  | Debug. Prints the list of command line arguments before going down the directory. |
-| -p | -\-permissions | Print permissions of each file or directory. |
+| -p | -\-permissions&nbsp&nbsp&nbsp&nbsp | Print permissions of each file or directory. |
 | -s | -\-size | Print size of each file or directory. |
 | -t \<length> |  | The maximum length for filenames. Files with the name length exceeding the value will be truncated. |
 | -e |  | Print filetype of each file or directory in the form of extension (e.g. png). |
