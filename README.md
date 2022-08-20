@@ -6,5 +6,5 @@ Instead of compiling the code, you have an option to use the binary. Follow the 
  1. [Download](https://github.com/Tymur77/tree/blob/master/Build/Products/Debug/Tree?raw=true) the binary;
  2. Copy the path to the binary and paste it into the terminal window;
  3. Run;
- 4. Go to [the system preferences](x-apple.systempreferences:com.apple.preference.security?General) and allow running the binary;
+ 4. Go to the system preferences and allow running the binary;
  5. Rerun.
