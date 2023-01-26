@@ -8,6 +8,7 @@ installer](https://github.com/Tymur77/tree/blob/master/Build/Products/Install%20
 Font in the screenshot: MesloLGS NF. [Download](https://github.com/Tymur77/tree/blob/master/MesloLGS%20NF%20Regular.ttf?raw=true).
 
 ## Help information
+Specify -h in the terminal to get help.
 
 | Option | Description |
 | ------ | ------ |
